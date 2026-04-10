@@ -1,0 +1,2641 @@
+[
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Gina",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "23",
+      "addr:street": "Stoja",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Kažun",
+      "phone": null,
+      "opening_hours": "Tu-Su 11:00-22:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "regional",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Amfiteatar",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "6",
+      "addr:street": "Amfiteatarska",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Scaletta",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Smoked",
+      "phone": null,
+      "opening_hours": "Mo-Su 09:00-23:00",
+      "addr:housenumber": "67",
+      "addr:street": "Ulica rimske centurijacije",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Caffe Bar Dvojka",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "3",
+      "addr:street": "Giardini",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "pizza",
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Pizzeria Asterix",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "11",
+      "addr:street": "Piranesijev prilaz",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Sandwich Club",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "4",
+      "addr:street": "Sisplac",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro Odisej",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "7",
+      "addr:street": "Arsenalska",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro Cementara",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "4",
+      "addr:street": "Revelanteova",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "pizza;pasta",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro & Pizzeria Papillon",
+      "phone": "+385 52 218 812",
+      "opening_hours": "Mo off, Tu-Fr 14:00-22:00, Sa-Su 12:00-22:00",
+      "addr:housenumber": "23",
+      "addr:street": "De Franceschijeva",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "regional;seafood",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Boccaporta",
+      "phone": "+385 52 506 266",
+      "opening_hours": null,
+      "addr:housenumber": "18",
+      "addr:street": "Dolinka",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Dvi Palme",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "43",
+      "addr:street": "Marulićeva",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "pizza",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Pizzeria TIVOLI",
+      "phone": null,
+      "opening_hours": "Tu-Th 14:00-24:00, Fr-Su 10:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Restaurant Oaza",
+      "phone": "+385 52 534043",
+      "opening_hours": "Mo-Sa 09:00-23:00",
+      "addr:housenumber": "3",
+      "addr:street": "Paduljski put",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Pizzeria Samantha",
+      "phone": "+385 52 535665",
+      "opening_hours": null,
+      "addr:housenumber": "11",
+      "addr:street": "Labinska",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bufet Otok Veruda",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "italian;regional",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Angulus",
+      "phone": "+385 (0)52 218 218",
+      "opening_hours": null,
+      "addr:housenumber": "3",
+      "addr:street": "Clerisseauova",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "italian;pizza",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Pompei",
+      "phone": "+385 (0)52 218 218",
+      "opening_hours": null,
+      "addr:housenumber": "5",
+      "addr:street": "Clerisseauova",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Yacht Restaurant & Lounge Bar",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "pub",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Beer Club Pula",
+      "phone": null,
+      "opening_hours": "Mo-We 07:00-23:00; Th-Fr 07:00-01:00; Sa 16:00-01:00",
+      "addr:housenumber": "18",
+      "addr:street": "Santoriova",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bar Cuba Libre",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "italian;regional",
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Pomodoro",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "italian;croatian;pizza;grill;seafood;crepes;gluten_free;vegetarian;desserts",
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Pizzeria Jupiter",
+      "phone": "052214333",
+      "opening_hours": "Mo-Sa 12:00-23:00; Su 13:00-23:00",
+      "addr:housenumber": "42",
+      "addr:street": "Castropola",
+      "rating": 4.7,
+      "description": "A long-standing Italian restaurant in a casual space with a terrace and offering pizzas, pasta and seafood dishes, and other dishes.",
+      "reviews": [
+        "The best pizza that we ever tried in Pula, big portions, and very fast service and very friendly staff. Highly recommend! Our server Sasha was top notch, even recommended us chilli oil for our pizza!! Thank you for your great service!!",
+        "Always good and fast service, pleasant atmosphere on the terrace, and delicious food. We had Istarski odrezak, which is a version of turkey cordon bleu, deliciously done in cheese and mushrooms sauce with fries. The first bite was so amazingly tasty my taste buds started singing!",
+        "Excellent pizza and pancakes. But I didn't expect pancakes to be so huge, it is almost a meal on its own. I almost died trying to eat it after the pizza 😂 Of course, this is not criticism but compliment because they don't cheap out."
+      ],
+      "price": "medium"
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "regional;pizza",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Istrijanka",
+      "phone": null,
+      "opening_hours": "Mo-Su 09:00-21:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Školjka",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": "burger",
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "McDonald's",
+      "phone": null,
+      "opening_hours": "Mo-Su 07:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Kavarna Brioni",
+      "phone": null,
+      "opening_hours": "7:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro Plaža",
+      "phone": null,
+      "opening_hours": "Mo-Su 10:00-18:30",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Restoran Neptun",
+      "phone": null,
+      "opening_hours": "07:00-10:00, 12:00-19:00, 19:00-21:30",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Restoran Carmen",
+      "phone": null,
+      "opening_hours": "18:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Mediteran",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Sirena",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "12",
+      "addr:street": "Forum",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Vela Nera",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "E&D lounge",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "La Barca",
+      "phone": "+385981788365",
+      "opening_hours": "Mo-Su 10:00-24:00",
+      "addr:housenumber": "8a",
+      "addr:street": "Verudela",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "E&D Caffe i Restaurant",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "regional",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Galeb",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "37",
+      "addr:street": "Osjecka",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Barbi",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Corso Pula",
+      "phone": "+385 95 735 5452",
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Rock Caffe",
+      "phone": "+385 (0)52 210 975",
+      "opening_hours": null,
+      "addr:housenumber": "8",
+      "addr:street": "Scalierova",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Tanja 3",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "5",
+      "addr:street": "Dubrovačke bratovštine",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": "burger;sandwich",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Green tasty food",
+      "phone": null,
+      "opening_hours": "Mo-Fr 10:00-22:00; Su 14:00-22:00",
+      "addr:housenumber": "4",
+      "addr:street": "Scalierova ulica",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "international",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Ribarska Koliba",
+      "phone": "+385 91 600 1269",
+      "opening_hours": null,
+      "addr:housenumber": "3",
+      "addr:street": "Verudela",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Milan",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": "coffee_shop",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Cafe Frei",
+      "phone": null,
+      "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Caffe Bar Cedar",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "steak_house",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Gaucho",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": "fish_and_chips;burger;seafood",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "69 Food",
+      "phone": null,
+      "opening_hours": "Mo-Su,PH 11:00-23:30",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "pizza",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Pizzeria",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Fish Grill Mosaik",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Veritas Food & Wine",
+      "phone": "+385 97 656 3627",
+      "opening_hours": "Mo-Su 10:00-23:00",
+      "addr:housenumber": "14",
+      "addr:street": "Maksimijanova",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": "bakery",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Forum",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": "Flaciusova",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Old City",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Fish Grill Popa",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Restaurant & Bar Gardelin",
+      "phone": "+385 52 534618",
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Padela",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "2",
+      "addr:street": "Riva",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bounty",
+      "phone": null,
+      "opening_hours": "Mo-Su 07:00-23:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Cinderela",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Milan",
+      "phone": null,
+      "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-14:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Green",
+      "phone": "+385 52 212 112",
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Kantina",
+      "phone": null,
+      "opening_hours": "Mo-Sa 07:00-23:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "pizza",
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Pizzeria Barkun",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "chinese",
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Peking",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": "barbecue",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Pečenjarnica Porat",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "seafood",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "MORE fish-food",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "47",
+      "addr:street": "Rizzijeva",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "croatian",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Da Bruno",
+      "phone": null,
+      "opening_hours": "PH,Mo-Su 11:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro Oliva",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Caffe Bar San Antonio",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Dva ferala",
+      "phone": null,
+      "opening_hours": "Mo-Fr 07:00-21:00; Sa,Su 09:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "PIAZZA NOVE",
+      "phone": null,
+      "opening_hours": "Mo-Sa 10:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Rendez-Vous",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "32",
+      "addr:street": "Kandlerova ulica",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Dumo",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "italian;regional",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Dozebelek Pula Grill Pizza",
+      "phone": null,
+      "opening_hours": "Mo 6:00-24:00, Sa 7:00-24:00, Su 8:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Biberon Fine Food",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Mini Mini Street Food",
+      "phone": null,
+      "opening_hours": "Mo-Fr 08:30-16:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "internet_cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Dobro jutro",
+      "phone": null,
+      "opening_hours": "Mo-Fr 07:30-22:00; Sa,Su 08:00-14:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "croatian",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Restaurant Karlo",
+      "phone": null,
+      "opening_hours": "Mo-Su 10:00-23:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Cabahia",
+      "phone": null,
+      "opening_hours": "Mo-Su 08:00-00:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "pub",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Big Mama Beachbar",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Amfiteatar Hotel Restuarant",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": "ice_cream;coffee_shop",
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Kukuriku",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "32",
+      "addr:street": "Peradovićeva ulica",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Vodnjanka - Trattoria",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": "burger;ice_cream",
+      "outdoor_seating": true,
+      "indoor_seating": false,
+      "name": "fast food STOJA",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Admiral",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "MOKKA",
+      "phone": null,
+      "opening_hours": "Mo-Sa 07:00-22:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Farabuto",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "15",
+      "addr:street": "Sisplac",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Caffe Bar Uliks",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Cookie",
+      "phone": null,
+      "opening_hours": "Mo-Su 07:00-23:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Caffe Bar Dado",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "croatian;grill",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Kod Kadre",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Station 0",
+      "phone": null,
+      "opening_hours": "Mo-Sa 09:00-22:30",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Cafe Bar Nozi",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "French Style Cafe",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Cvajner",
+      "phone": null,
+      "opening_hours": "Mo-Su 08:00-00:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Diana",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": "balkan;mediterranean",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Nonno",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": "Forum",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Orfej",
+      "phone": null,
+      "opening_hours": "Mo-Sa 09:00-18:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "pub",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "The Shipyard Pub",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Riva Restaurant & Lounge Bar",
+      "phone": "+385976125672",
+      "opening_hours": "Mo-Su 08:00-13:00,18:00-24:00",
+      "addr:housenumber": "4",
+      "addr:street": "Riva",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro Forum",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "8",
+      "addr:street": "Forum",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": "sandwich;salad",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Fresh sandwiches & salads",
+      "phone": null,
+      "opening_hours": "Mo-Fr 08:00-15:00; Sa-Su,PH off",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "seafood;croatian;local",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Konoba Taj",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "Coratian",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Grillbar Campo",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Skala",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro Valkane",
+      "phone": null,
+      "opening_hours": "08:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": "Lungomare",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Šumi More",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "24",
+      "addr:street": "Krlezina",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "burger;coffee_shop;friture;ice_cream;sandwich",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro Mistral",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "155",
+      "addr:street": "Puntižela",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Restaurant STARI GRAD",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "3",
+      "addr:street": "Sisplac",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Leggiero",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Leggiero",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": true,
+      "name": "Enoteca Istriana",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Epulon food and vine",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Mlinar",
+      "phone": null,
+      "opening_hours": "Mo-Sa 06:30-24:00, Su 07:00-24:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "La Familia",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "caffe Porto",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "fish;seafood",
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Furia Restaurant",
+      "phone": "+385 97 791 6306",
+      "opening_hours": "Mo-Su 09:00-18:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Street Food Two",
+      "phone": "+385 52 203 236",
+      "opening_hours": "Mo-Fr 10:00-21:30",
+      "addr:housenumber": "2A",
+      "addr:street": "Veronska",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Restaurant Boschetto",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Alighieri",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bistro Valkane",
+      "phone": null,
+      "opening_hours": "Mo-Su 08:30-23:30",
+      "addr:housenumber": "1",
+      "addr:street": "Lungomare",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "croatian;fish;fish_and_chips;mediterranean;seafood",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Bonaca Restaurant & Lounge Bar",
+      "phone": null,
+      "opening_hours": "Mo-Su 10:00-23:00",
+      "addr:housenumber": "11",
+      "addr:street": "Verudela",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Piantina Fine Fast Food",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "1",
+      "addr:street": "Zadarska ulica",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Nimfej",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "ice_cream",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Brandestini Gelateria",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Adi",
+      "phone": null,
+      "opening_hours": "Mo-Sa 09:00-02:00, Su 18:00-02:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "pub",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": false,
+      "indoor_seating": null,
+      "name": "Pivnica Bulevar Pula",
+      "phone": "+38552218859",
+      "opening_hours": "Mo-Su 12:00-23:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "international",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Nomad",
+      "phone": "+385 098 983 7528",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "addr:housenumber": "101",
+      "addr:street": "Ulica rimske centurijacije",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Restoran lesnina XXXL",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "pub",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Old City Bar",
+      "phone": "+385 52 222 944",
+      "opening_hours": "Mo-Fr 06:30-02:30; Sa 07:00-02:30; Su 08:30-2:30",
+      "addr:housenumber": "1",
+      "addr:street": "Danteov trg",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Orfej",
+      "phone": null,
+      "opening_hours": "Mo-Sa 12:00-21:30",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Rustic Gourmet Veruda",
+      "phone": "+385 52 721 302",
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Devetka",
+      "phone": null,
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Hum",
+      "phone": null,
+      "opening_hours": "Mo-Fr 07:00-15:00; Sa 07:00-14:00; Su 07:00-13:00",
+      "addr:housenumber": "4",
+      "addr:street": "Fontička",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Fabrica",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Pulačinka",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": "sandwich;cake",
+      "outdoor_seating": null,
+      "indoor_seating": true,
+      "name": "Nello",
+      "phone": "+385 52 512 666",
+      "opening_hours": null,
+      "addr:housenumber": "54",
+      "addr:street": "Castropola",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "regional;mediterranean;italian;croatian",
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Konoba Bocun",
+      "phone": "+385 99 505 2278",
+      "opening_hours": "Mo-Fr 16:00-23:00, Sa-Su 12:00-23:00",
+      "addr:housenumber": "24",
+      "addr:street": "Šijanska Cesta",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Popaj",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Kinema",
+      "phone": null,
+      "opening_hours": "Mo-Th 10:00-23:00, Fr,Sa 10:00-24:00, Su 12:00-23:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "pizza",
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Pizzeria Piccolo Porto",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": null,
+      "name": "Kavarna Lattiera",
+      "phone": null,
+      "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00",
+      "addr:housenumber": "4",
+      "addr:street": "Trg Kralja Tomislava",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "pizza",
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Amore Pizza & Pasta",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": "pizza",
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Pizzeria LEMA",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "45",
+      "addr:street": "Veruda",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Caffe Bar Galerija",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "26",
+      "addr:street": "Scalierova ulica",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": "kebab",
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Kebap & Burger Pula",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Osteria",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Zlatna vrata",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Alla Nonna",
+      "phone": null,
+      "opening_hours": "Mo-Su 12:00-00:00",
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "fast_food",
+    "properties": {
+      "tags": "pizza",
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Maximilian",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": true,
+      "indoor_seating": true,
+      "name": "Barbados",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Agrippina Street Food",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": "5",
+      "addr:street": "Sergijevaca",
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "cafe",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Caffe bar",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Katarina",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  },
+  {
+    "type": "restaurant",
+    "properties": {
+      "tags": null,
+      "outdoor_seating": null,
+      "indoor_seating": null,
+      "name": "Istrian Culinaris",
+      "phone": null,
+      "opening_hours": null,
+      "addr:housenumber": null,
+      "addr:street": null,
+      "rating": null,
+      "description": null,
+      "reviews": null,
+      "price": null
+    }
+  }
+]

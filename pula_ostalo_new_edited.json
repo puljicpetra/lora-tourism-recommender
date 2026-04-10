@@ -1,0 +1,2492 @@
+[
+  {
+    "type": "castle",
+    "properties": {
+      "name": "Mletačka utvrda",
+      "tags": "fortress",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Valmarin",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Bourguignon",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Utvrda Marie Louise",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Punta Christo",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Monte Munide",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "camp_site",
+    "properties": {
+      "name": "Camp Brioni",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Bizantinski kastrum",
+      "tags": "archaeological_site",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "zoo",
+    "properties": {
+      "name": "Safari park",
+      "tags": ["safari_park", "zoo"], 
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Brijunska bara",
+      "tags": null,
+      "description": "remove",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Valerijin park",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Arena Pula",
+      "tags": ["amphitheatre", "ancient", "roman"],
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort San Giorgio",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "archaeological_site",
+    "properties": {
+      "name": "Augustov Hram",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Muzej / galerija - Crkva Srca Isusova i Marijina (Sveta Srca)",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park grada Graza",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Verudella",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Greenhill",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Arheološki muzej Istre",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Amfiteatar",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park Franje Josipa I.",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park Monte Zaro",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Titov park",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park kralja Petra Krešimira IV",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Utvrda Monvidal",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Scaletta",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park Mladenaca",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "Hostel Joyce",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "gallery",
+    "properties": {
+      "name": "Galerija C8",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Casoni Vecchi",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Hotel Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Mornarički Park",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "MONTE ZARO",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Villa Carla",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "Pula Art Hostel",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Huguesov park",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Apartmani Pula Arena",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "SWEET APARTMENT TONY",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "Cool Book Hostel",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Fortin-Apartments Stinjan",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Apartments Villa Bubi",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Hotel Park Plaza Arena Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "camp_site",
+    "properties": {
+      "name": "Arena Stoja",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park žrtava fašizma",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Turtian",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park pod Arenom",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "monument",
+    "properties": {
+      "name": "Slavoluk Sergijevaca",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Dvojna vrata",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Hotel Brioni",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Valerijin park",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park kralja Zvonimira",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Ovina",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park Sergio Endrigo",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Park žrtava Vergarole",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "beach",
+    "properties": {
+      "name": "FKK / Naturist Beach Valkane",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "Art Hostel Pipištrelo",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "crkva sv. Marije",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "beach",
+    "properties": {
+      "name": "Havajka",
+      "tags": "gravel",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Borcima narodnooslobodilačke borbe i žrtvama fašizma 1941-1945",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Hotel Riviera",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "Omladinski hostel Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Tegetthoff",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "crkva sv. Petra",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "beach",
+    "properties": {
+      "name": "Ambrela Beach",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Battery San Giovanni",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Hotel Neptun-Istra",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Hotel Karmen",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Čamačarnica",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Kupelwieserov mir",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Rimska vila u uvali Verige",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Vila Lovorka",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Vila Dubravka",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Vila Primorka",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "beach",
+    "properties": {
+      "name": "Brioni",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "castle",
+    "properties": {
+      "name": "Fort Stoja",
+      "tags": "fortress",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fountain",
+    "properties": {
+      "name": "Maketa Pule",
+      "tags": "tactile_model",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Park Plaza Histria Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "Fort Peneda",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Izložbe",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "marina",
+    "properties": {
+      "name": "ACI Marina Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "LABIRINT MUDROSTI I ZNANJA",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "LABIRINT POVEZANOSTI",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "LABIRINT ENERGIJE",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "LABIRINT OSJECAJA",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "LABIRINT MOČI",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Istarski magarac",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Istarsko govedo - Boškarin",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Otisci stopala dinosaura",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Brijunska bara",
+      "tags": "board",
+      "description": "remove",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Stara maslina (ulika)",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Istarska ovca",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Rimska vila u uvali Verige",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Čamačarnica, 1902.g.",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Koza",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Etno park",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Stara maslina (ulika)",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Bizantinski kastrum",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "archaeological_site",
+    "properties": {
+      "name": "Agripinina kuća",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Marčanica",
+      "tags": "pond",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "aquarium",
+    "properties": {
+      "name": "Aquarium Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "camp_site",
+    "properties": {
+      "name": "Fratarski",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "water",
+    "properties": {
+      "name": "Bara",
+      "tags": null,
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Zlatićev trg",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Brioni Minor",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "archaeological_site",
+    "properties": {
+      "name": "Malo rimsko kazalište",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Tvrđava Muzil",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Utvrda San Michele",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "fort",
+    "properties": {
+      "name": "Fort Monte Grosso",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "ruševine Hidrobaze",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "castle",
+    "properties": {
+      "name": "Fort Kaiser Franz",
+      "tags": "fortress",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "yes",
+    "properties": {
+      "name": "Beobachtungsstand",
+      "tags": "observation",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "yes",
+    "properties": {
+      "name": "Batterie Grosso",
+      "tags": "gun_emplacement",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "playground",
+    "properties": {
+      "name": "Dječje igralište Viška ulica",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Spomenik posvećen Titu",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "beach",
+    "properties": {
+      "name": "Lost Beach",
+      "tags": "pebblestone",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Povijesni i pomorski muzej Istre",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "beach",
+    "properties": {
+      "name": "Plaža Jupiter",
+      "tags": "paved",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "beach",
+    "properties": {
+      "name": "Plaža Saluga",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "park",
+    "properties": {
+      "name": "Verudela Art Park",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Tourist Info Centre",
+      "tags": "office",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "camp_site",
+    "properties": {
+      "name": "Horizonte Camp Veruda Island",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "castle",
+    "properties": {
+      "name": "Küsten-Batterie Valmaggiore",
+      "tags": "fortress",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "archaeological_site",
+    "properties": {
+      "name": "Roman mosaic, around 3. century A.D",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "bobu bob",
+      "tags": "living_sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "city_gate",
+    "properties": {
+      "name": "Herkulova vrata",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "bobu bob",
+      "tags": "living_sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "bobu bob",
+      "tags": "living_sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "bobu bob",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "bobu bob",
+      "tags": "living_sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Parna lokomotiva JŽ 835-040",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "MEMO Museum of good Memories",
+      "tags": null,
+      "description": "about life in former Yugolslavia",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Kaštelir",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "Vergarolla 18.8.1946 13h",
+      "tags": "stone",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "1.1.1951",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Zerostrasse",
+      "tags": "cellar_entrance",
+      "description": "Tunnels",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "James Joyce",
+      "tags": "statue",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Gradina",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Saluga",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Mrtvi vrh",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Vrh Kosir",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Arena Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Arsenal",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Omir",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Antonio Smareglia",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "guest_house",
+    "properties": {
+      "name": "Partizanski Put",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Spomenik streljanim mornarima",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "archaeological_site",
+    "properties": {
+      "name": "Rimski bunar",
+      "tags": "water_well",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "Grobljanska crkva sv. Antuna",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "Underground Hostel",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Josip Broz Tito",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Jurica Kalac",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Tonka Lorencin",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Olga Ban",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Giulio Revelante",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Ruža Petrović",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Vladimir Gortan",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Ivan Jadreško",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Neven Kirac",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Slavko Grubiša",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "viewpoint",
+    "properties": {
+      "name": "Vidikovac Javornik",
+      "tags": "tower",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Zerostrasse",
+      "tags": "cellar_entrance",
+      "description": "Tunnels",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Majčina ljubav",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "vila",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Sfinga Verudela",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "viewpoint",
+    "properties": {
+      "name": "Coral beach",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "guest_house",
+    "properties": {
+      "name": "Villa Nicole",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "viewpoint",
+    "properties": {
+      "name": "Cliff Diving",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Mar Mar Apartments",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Juraj Dobrila",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Matko Laginja",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Poginulim braniteljima u Domovinskom ratu",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "Hostel Enjoy",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "museum",
+    "properties": {
+      "name": "Istrian Olive Oil Museum",
+      "tags": null,
+      "description": "Guided tastings: 10:00 - 17:00",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Avion-vjetrokaz",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Morivo apatrman",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "castle",
+    "properties": {
+      "name": "Küsten-Batterie Valmaggiore",
+      "tags": "fortress",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "castle",
+    "properties": {
+      "name": "Batterie Zonchi",
+      "tags": "defensive",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "Četiri elementa",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "Spomenik Vladimiru Gortanu",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Titov Cadillac",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Bazilika sv. Marije",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "Il nostro giornale",
+      "tags": "plaque",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "kayak tours | pulsevents.hr",
+      "tags": null,
+      "description": "Sea cave exploring tours",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "Spomenik radnicima brodogradilišta",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Baretini - Studio Lungomare",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Vrbanj",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Vela Straža",
+      "tags": "peak",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Javornik",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Borik",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Cer",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Mužilj",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Brdina",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "sport",
+    "properties": {
+      "name": "Kayak Centar Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Sign For Bottlenose Dolpin",
+      "tags": "guidepost",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "Paula von Preradović",
+      "tags": "plaque",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "archaeological_site",
+    "properties": {
+      "name": "Tumul od kamenih ploča",
+      "tags": "tumulus",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Žena s mijehom",
+      "tags": "statue",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "zoo",
+    "properties": {
+      "name": "Fazanerija",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "Robert Koch",
+      "tags": "plaque",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Josip Broz Tito",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "playground",
+    "properties": {
+      "name": "McDonald's PlayPlace",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Studio 7even",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Spomenik Sonyju",
+      "tags": "statue",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Tragovi dinosaura",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Golub mira",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "In vivo veritas",
+      "tags": "statue",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Vea Histria Apartments Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Vrh Borik",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "guest_house",
+    "properties": {
+      "name": "Studio apartman \"Iva \"",
+      "tags": null,
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "guest_house",
+    "properties": {
+      "name": "Apartment Sunčica",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Vernal",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Turko",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Karbuner",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Špeh",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "archaeological_site",
+    "properties": {
+      "name": "Rimski mauzolej",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Marko Marulić",
+      "tags": "statue",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Park Plaza Verudela",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Četvrt Sv. Teodora u Puli",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Ciklame",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "LABIRINT MOČI",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "LABIRINT POVEZANOSTI",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "LABIRINT OSJECAJA",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "LABIRINT MUDROSTI I ZNANJA",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "LABIRINT ENERGIJE",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "memorial",
+    "properties": {
+      "name": "Lino Mariani",
+      "tags": "bust",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "aquarium",
+    "properties": {
+      "name": "Aquarium Pula",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hostel",
+    "properties": {
+      "name": "Crazy House Hostel",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "Brončanodobna nekropola",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "Labirintski ulaz u Gradinu",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "Brončanodobna gradina",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ruins",
+    "properties": {
+      "name": "Vidikovac Opatija (ostaci)",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Apartment Falu",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "attraction",
+    "properties": {
+      "name": "Otisci stopala dinosaura",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Apartments Antons",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "artwork",
+    "properties": {
+      "name": "Mate Parlov",
+      "tags": "sculpture",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Valmarin",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Munida",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Turtijan",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "nature",
+    "properties": {
+      "name": "Signal",
+      "tags": "peak",
+      "description": "delete",
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Ribarska Koliba Resort",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "ship",
+    "properties": {
+      "name": "Lugi",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "information",
+    "properties": {
+      "name": "Staza 308 Route",
+      "tags": "board",
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "hotel",
+    "properties": {
+      "name": "Modo",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Apartman Elis",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "guest_house",
+    "properties": {
+      "name": "Villa 109",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "guest_house",
+    "properties": {
+      "name": "Villa 116",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "guest_house",
+    "properties": {
+      "name": "Jírovcová - Štinjan",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "apartment",
+    "properties": {
+      "name": "Funcic Apartments",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  },
+  {
+    "type": "chalet",
+    "properties": {
+      "name": "Villa Elite",
+      "tags": null,
+      "description": null,
+      "rating": null,
+      "reviews": null
+    }
+  }
+]
