@@ -680,23 +680,6 @@
     {
         "type": "restaurant",
         "properties": {
-            "tags": null,
-            "outdoor_seating": null,
-            "indoor_seating": null,
-            "name": "E&D Caffe i Restaurant",
-            "phone": null,
-            "opening_hours": null,
-            "addr:housenumber": null,
-            "addr:street": null,
-            "rating": null,
-            "description": null,
-            "reviews": null,
-            "price": null
-        }
-    },
-    {
-        "type": "restaurant",
-        "properties": {
             "tags": ["mediterranean", "grill", "seafood", "meat"],
             "outdoor_seating": true,
             "indoor_seating": true,
